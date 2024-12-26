@@ -15,7 +15,7 @@ A simple Tic-Tac-Toe game built with HTML,CSS and JavaScript.This game allows tw
 - **CSS :** For styling and responsive design.
 - **JavaScript :** For game logic and interactivity.
 
-## how to Play
+## How to Play
 
 1. Players take turns clicking on the cells of the grid to place their mark (X or O).
 2. The first player to align three of their marks horizontally, vertically, or diagonally wins.
@@ -28,3 +28,10 @@ To run the game locally :
 
 1. Clone this repository.
 2. Open "index.html" in your browser.
+
+Enjoy the game!
+
+## Deployment
+The game is deployed on **Netlify**. You can play it by clicking the link below:
+
+[Play Tic-Tac-Toe Now](https://tic-tac-toe-game-sk.netlify.app/)
